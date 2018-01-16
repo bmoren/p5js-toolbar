@@ -15,7 +15,7 @@
       "p5js-toolbar:new-project"
     ]
   },
-  "repository": "https://github.com/atom/p5js-toolbar",
+  "repository": "https://github.com/bmoren/p5js-toolbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
