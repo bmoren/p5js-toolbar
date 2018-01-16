@@ -1,5 +1,4 @@
 # p5js-toolbar
----
 p5js toolbar for atom.io with helpful tools and a built in server for quick p5js project development!
 
 ### GUI
