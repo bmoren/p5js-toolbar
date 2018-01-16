@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-p": "p5js-toolbar:toggle",
+    "ctrl-alt-r": "p5js-toolbar:start",
+    "ctrl-alt-s": "p5js-toolbar:stop",
+    "ctrl-alt-?": "p5js-toolbar:reference"
+  }
+}

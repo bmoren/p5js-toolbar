@@ -1,0 +1,51 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle p5js-toolbar",
+        "command": "p5js-toolbar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "p5js-toolbar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "p5js-toolbar:toggle"
+            },
+            {
+              "label": "Run",
+              "command": "p5js-toolbar:run"
+            },
+            {
+              "label": "Stop",
+              "command": "p5js-toolbar:stop"
+            },
+            {
+              "label": "New Project",
+              "command": "p5js-toolbar:new-project"
+            },
+            {
+              "label": "Open Reference",
+              "command": "p5js-toolbar:reference"
+            },
+            {
+              "label": "Open Forum",
+              "command": "p5js-toolbar:forum"
+            },
+            {
+              "label": "Create New Issue",
+              "command": "p5js-toolbar:issue"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}
