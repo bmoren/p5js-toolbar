@@ -18,11 +18,9 @@ Open Reference    | Control + Option + ?
 
 
 ### Command Palette & Packages Menu
-p5js-toolbar supports atom's built in command palette accessibale via `Command + Shift + p`
-<img src="readmeimages/cp.png">
+p5js-toolbar supports atom's built in command palette accessibale via `Command + Shift + p`. p5js-toolbar's functionality is also accessible via atom's Packages menu
 
-p5js-toolbar's functionality is also accessible via atom's Packages menu
-<img src="readmeimages/menu.png">
+<img src="readmeimages/cp.png" width="50%"><img src="readmeimages/menu.png" width="50%">
 
 
 
