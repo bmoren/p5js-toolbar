@@ -1,7 +1,7 @@
 {
   "name": "p5js-toolbar",
   "main": "./lib/p5js-toolbar",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A small toolbar for running p5js sketches & other helpful p5js information",
   "keywords": [],
   "activationCommands": {
