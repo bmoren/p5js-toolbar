@@ -1,9 +1,15 @@
 {
   "name": "p5js-toolbar",
   "main": "./lib/p5js-toolbar",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A small toolbar for running p5js sketches & other helpful p5js information",
-  "keywords": [],
+  "keywords": [
+    "p5js",
+    "p5xjs",
+    "processing",
+    "creative",
+    "p5"
+  ],
   "repository": "https://github.com/bmoren/p5js-toolbar",
   "license": "MIT",
   "engines": {
@@ -15,12 +21,5 @@
     "opn": "^5.2.0",
     "portfinder": "^1.0.13",
     "readdirp": "^2.1.0"
-  },
-  "keywords": [
-  "p5js",
-  "p5xjs",
-  "processing",
-  "creative",
-  "p5"
-]
+  }
 }
