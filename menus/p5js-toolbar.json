@@ -15,19 +15,19 @@
           "label": "p5js-toolbar",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Toggle p5.js toolbar",
               "command": "p5js-toolbar:toggle"
             },
             {
-              "label": "Run",
-              "command": "p5js-toolbar:run"
+              "label": "Start Sketch",
+              "command": "p5js-toolbar:start"
             },
             {
-              "label": "Stop",
+              "label": "Stop Sketch",
               "command": "p5js-toolbar:stop"
             },
             {
-              "label": "New Project",
+              "label": "+ New Project",
               "command": "p5js-toolbar:new-project"
             },
             {
@@ -39,8 +39,8 @@
               "command": "p5js-toolbar:forum"
             },
             {
-              "label": "Create New Issue",
-              "command": "p5js-toolbar:issue"
+              "label": "Create New Issue on Github",
+              "command": "p5js-toolbar:report-issue"
             }
 
           ]
