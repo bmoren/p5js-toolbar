@@ -41,6 +41,10 @@
             {
               "label": "Create New Issue on Github",
               "command": "p5js-toolbar:report-issue"
+            },
+            {
+              "label": "Update p5.js to latest version",
+              "command": "p5js-toolbar:update-p5js-to-latest"
             }
 
           ]
